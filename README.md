@@ -27,6 +27,7 @@ Publish the website in the given URL.
 
 # PROGRAM:
 resstaurant website.html
+```
 
 <div style="text-align: center;"><img style="width: 20%" src="c:\Users\Suriya\Downloads\cozy plate restaurant logo with orange theme.png"></div>
 <div style="text-align: center; margin-top: 20px;"><a style="padding: 20px;" href="c:\Users\Suriya\Desktop\web application\menu for restaurant website.html">MENU</a>
@@ -47,9 +48,9 @@ resstaurant website.html
     </video>
     
     </div> 
-
+```
 menu for restaurant website.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,9 +114,9 @@ menu for restaurant website.html
     </div>
 </body>
 </html>
-
+```
 administration for restaurant.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -191,9 +192,9 @@ administration for restaurant.html
     </div>
 </body>
 </html>
-
+```
 CONTACT US for restaurant website.html
-
+```
 <div style="text-align: center;"><img style="width: 20%" src="c:\Users\Suriya\Downloads\cozy plate restaurant logo with orange theme.png"></div>
 <div style="text-align: center; margin-top: 20px;"><a style="padding: 20px;"C:\Users\Suriya\Desktop\web application\resstaurant website.html">HOME</a>
 <a style="padding: 20px;" href="file:///C:/Users/Suriya/Desktop/web application/menu%20for%20restaurant%20website.html">MENU</a>
@@ -207,10 +208,10 @@ CONTACT US for restaurant website.html
     <p><strong>Email:</strong> info@cozyplate.com</p>
 
      
-
+```
 
 about us for restaurant.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -309,7 +310,7 @@ about us for restaurant.html
 </body>
 </html>
 
-
+```
 # OUTPUT:
 HOME
 
