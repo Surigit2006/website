@@ -313,7 +313,9 @@ about us for restaurant.html
 ```
 # OUTPUT:
 HOME
+![Screenshot 2024-12-19 094004](https://github.com/user-attachments/assets/a842d21c-b6d4-457b-8338-97ebcba02841)
 
+![Screenshot 2024-12-19 094027](https://github.com/user-attachments/assets/bf0b2f10-ad7c-4670-b12c-c33129ca11d7)
 
 
 MENU
